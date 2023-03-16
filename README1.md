@@ -7,6 +7,14 @@ PERFECT is an approach to few-shot learning that doesn't require manual prompts 
 **paper** : ![alt text](https://aclanthology.org/2022.acl-long.254.pdf "PERFECT: Prompt-free and Efficient Few-shot Learning with Language Models")
 
 ### Dataset
-**dataset** : (https://huggingface.co/datasets/USC-MOLA-Lab/MFRC "Dataset")
+**Small dataset** : (https://huggingface.co/datasets/USC-MOLA-Lab/MFRC "Dataset")
+**Bigger dataset**: 
 
 ### Reproducibility plan
+- Use one of the original datasets to reproduce the results in the paper using average/worst-case accuracy/standard deviation (table 1) 
+
+- Different (smaller) dataset and comparison of the original results using average/worst-case accuracy/standard deviation (table 1).
+
+- Different (bigger) dataset and comparison of the original results using average/worst-case accuracy/standard deviation (table 1).
+
+- **Further reproduction results** : Testing performance on label variety or research on the minimum amount of shots in few-shot learning on a morale-based Reddit classification task
