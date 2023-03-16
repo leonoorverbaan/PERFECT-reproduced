@@ -18,6 +18,8 @@ During testing, the algorithm generates a set of **synthetic examples** for the 
 **Bigger dataset**: 
 
 ### Reproducibility plan
+The following presents a general approach on reproducing the results from ERFECT: Prompt-free and Efficient Few-shot Learning with Language Models. 
+
 - Use one of the original datasets to reproduce the results in the paper using average/worst-case accuracy/standard deviation (table 1) 
 
 - Different (smaller) dataset and comparison of the original results using average/worst-case accuracy/standard deviation (table 1).
