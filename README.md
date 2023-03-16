@@ -28,4 +28,4 @@ The following presents a general approach on reproducing the results from ERFECT
 
 - Different (bigger) dataset and comparison of the original results using average/worst-case accuracy/standard deviation (table 1).
 
-- **Further reproduction results** : Testing performance on label variety or research on the minimum amount of shots in few-shot learning on a morale-based Reddit classification task
+**Further reproduction results** : Testing performance on label variety or research on the minimum amount of shots in few-shot learning on a morale-based Reddit classification task
