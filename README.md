@@ -15,17 +15,17 @@ During testing, the algorithm generates a set of **synthetic examples** for the 
 **paper** : ![PERFECT: Prompt-free and Efficient Few-shot Learning with Language Models](https://aclanthology.org/2022.acl-long.254.pdf "PERFECT: Prompt-free and Efficient Few-shot Learning with Language Models")
 
 ### Dataset
-**Small dataset** : (https://huggingface.co/datasets/USC-MOLA-Lab/MFRC "Dataset")
+**Small dataset** : Reddit corpus (https://huggingface.co/datasets/USC-MOLA-Lab/MFRC "Dataset")
 
-**Bigger dataset**: 
+**Bigger dataset**: Twitter dataset (https://github.com/adondera/transferability-of-values/tree/master/nlp/data)
 
 ### Reproducibility plan
-The following presents a general approach on reproducing the results from ERFECT: Prompt-free and Efficient Few-shot Learning with Language Models. 
+The following presents a general approach on reproducing the results from PERFECT: Prompt-free and Efficient Few-shot Learning with Language Models. 
 
 - Use one of the original datasets to reproduce the results in the paper using average/worst-case accuracy/standard deviation (table 1) 
 
-- Different (smaller) dataset and comparison of the original results using average/worst-case accuracy/standard deviation (table 1).
+- Different (smaller, reddit corpus) dataset and comparison of the original results using average/worst-case accuracy/standard deviation (table 1).
 
-- Different (bigger) dataset and comparison of the original results using average/worst-case accuracy/standard deviation (table 1).
+- Different (bigger, Twitter dataset) dataset and comparison of the original results using average/worst-case accuracy/standard deviation (table 1).
 
 **Further reproduction results** : Testing performance on label variety or research on the minimum amount of shots in few-shot learning on a morale-based Reddit classification task
