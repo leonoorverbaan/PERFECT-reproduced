@@ -17,7 +17,7 @@ During testing, the algorithm generates a set of **synthetic examples** for the 
 ### Dataset
 **Small dataset** : Reddit corpus (https://huggingface.co/datasets/USC-MOLA-Lab/MFRC "Dataset")
 
-**Bigger dataset**: Twitter dataset (https://github.com/adondera/transferability-of-values/tree/master/nlp/data)
+**Bigger dataset**: Twitter corpus (https://github.com/adondera/transferability-of-values/tree/master/nlp/data)
 
 ### Reproducibility plan
 The following presents a general approach on reproducing the results from PERFECT: Prompt-free and Efficient Few-shot Learning with Language Models. 
