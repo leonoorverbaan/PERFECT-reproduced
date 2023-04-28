@@ -14,18 +14,5 @@ During testing, the algorithm generates a set of **synthetic examples** for the 
 
 **paper** : ![PERFECT: Prompt-free and Efficient Few-shot Learning with Language Models](https://aclanthology.org/2022.acl-long.254.pdf "PERFECT: Prompt-free and Efficient Few-shot Learning with Language Models")
 
-### Dataset
-**Small dataset** : Reddit corpus (https://huggingface.co/datasets/USC-MOLA-Lab/MFRC "Dataset")
-
-**Bigger dataset**: Twitter corpus (https://github.com/adondera/transferability-of-values/tree/master/nlp/data)
-
-### Reproducibility plan
-The following presents a general approach on reproducing the results from PERFECT: Prompt-free and Efficient Few-shot Learning with Language Models. 
-
-- Use one of the original datasets to reproduce the results in the paper using average/worst-case accuracy/standard deviation (table 1) 
-
-- Different (smaller, reddit corpus) dataset and comparison of the original results using average/worst-case accuracy/standard deviation (table 1).
-
-- Different (bigger, Twitter dataset) dataset and comparison of the original results using average/worst-case accuracy/standard deviation (table 1).
-
-**Further reproduction results** : Testing performance on label variety or research on the minimum amount of shots in few-shot learning on a morale-based Reddit classification task
+### Project
+All further information on this project can be found ![here](https://medium.com/@timdadum/exploratory-use-of-perfect-few-shot-learning-on-reddit-and-twitter-morality-analysis-7125e3123c1d)
