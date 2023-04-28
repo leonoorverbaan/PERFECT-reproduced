@@ -15,4 +15,4 @@ During testing, the algorithm generates a set of **synthetic examples** for the 
 **paper** : ![PERFECT: Prompt-free and Efficient Few-shot Learning with Language Models](https://aclanthology.org/2022.acl-long.254.pdf "PERFECT: Prompt-free and Efficient Few-shot Learning with Language Models")
 
 ### Project
-All further information on this project can be found ![here](https://medium.com/@timdadum/exploratory-use-of-perfect-few-shot-learning-on-reddit-and-twitter-morality-analysis-7125e3123c1d)
+All further information on this project can be found ![here](https://medium.com/@timdadum/exploratory-use-of-perfect-few-shot-learning-on-reddit-and-twitter-morality-analysis-7125e3123c1d "Blog Post")
