@@ -16,3 +16,9 @@ During testing, the algorithm generates a set of **synthetic examples** for the 
 
 ### Project
 All further information on this project can be found here: https://medium.com/@timdadum/exploratory-use-of-perfect-few-shot-learning-on-reddit-and-twitter-morality-analysis-7125e3123c1d
+
+# Remark
+The PyTorch Models were very large (approaching 1.5GB), so they have been left out of this repository.
+
+# Reproduction
+You can change the 'task' argument to either `mfrc` or `mftc` depending on the task, to reproduce our results with given datasets. 
